@@ -6,7 +6,7 @@
 
         android:toYDelta="100%p"
 
-        android:duration="@android:integer/config_shortAnimTime"
+        android:duration="2000"
         />
 
 </set>
