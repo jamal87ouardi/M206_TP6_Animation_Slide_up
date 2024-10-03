@@ -19,7 +19,7 @@ class SecondActivity : AppCompatActivity() {
 
             startActivity(intent)
 
-            overridePendingTransition(R.anim.slide_down, R.anim.slide_up)
+            overridePendingTransition(R.anim.slide_down_in, R.anim.slide_down_out)
         }
     }
 }

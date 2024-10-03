@@ -20,7 +20,7 @@ class MainActivity : AppCompatActivity() {
 
             startActivity(intent)
 
-            overridePendingTransition(R.anim.slide_up, R.anim.slide_down)
+            overridePendingTransition(R.anim.zoom_in, R.anim.zoom_out)
         }
 
     }
